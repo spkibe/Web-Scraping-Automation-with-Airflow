@@ -8,7 +8,7 @@ git clone https://github.com/spkibe/Web-Scraping-Automation-with-Airflow
 ```
 2. Navigate to the Project Directory:
 ```bash
-cd <project-directory>
+cd Web-Scraping-Automation-with-Airflow
 ```
 3. Build and Run Docker Containers:
 ```bash
